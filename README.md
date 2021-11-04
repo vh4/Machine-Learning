@@ -16,9 +16,9 @@ This is a machin learning course assignment from the first week to the seventh w
 
 ## Pembahasan Tugas 🚀 
 
-- [x] WEEK 1 => Random Forest dan Decision Tree
-- [x] WEEK 2 => Regularization Lasso Regression, Etc.
-- [x] WEEK 3 => K-Nearest Neighboord (KNN)
-- [x] WEEK 4 => Data Vizualization
-- [x] WEEK 5 => Exploratory Data Analysis | PCA | LDA | T-SNE
-- [x] WEEK 6 => Clustering K-Means
+- [x] WEEK 1 : Random Forest dan Decision Tree
+- [x] WEEK 2 : Regularization Lasso Regression, Etc.
+- [x] WEEK 3 : K-Nearest Neighboord (KNN)
+- [x] WEEK 4 : Data Vizualization
+- [x] WEEK 5 : Exploratory Data Analysis | PCA | LDA | T-SNE
+- [x] WEEK 6 : Clustering K-Means
