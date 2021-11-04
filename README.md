@@ -10,7 +10,7 @@ This is a machin learning course assignment from the first week to the seventh w
 
 | SOURCE CODE FROM KAGGLE                                   | SOURCE CODE LATIHAN                                             |
 | --------------------------------------------------------- | --------------------------------------------------------------- |
-| Mencopy source code di kaggle ke colab                    | Sumber tidak Hnaya dari kaggle, Tapi dari dicoding, Yt, dll.    |
+| Mencopy source code di kaggle ke colab                    | Sumber tidak Hanya dari kaggle, Tapi dari dicoding, Yt, dll.    |
 | Memahami source dari kaggle dengan menulis ulang          | Latihan dari Source Lain untuk mempelajari lebih dalam          |
 | Menambahkan Beberapa Kodingan sedikit dari Source kaggle  | Mencoba-coba / Merubah dari Sumber Lain tidak hanya dari Kaggle |
 
