@@ -4,8 +4,6 @@ This is a machin learning course assignment from the first week to the seventh w
 
 ## IMPORTANT ⚠️
 
-SOURCE CODE :
-
       * Sudah di running dari Colabs. tidak perlu dataset lagi, sudah kelihatan running nya dan kesalahanya dimana 
       * Jika Data Jupyter Notebook Tidak Bisa dibuka di Github, itu karena Lebih dari 1 atau 2 Mb Source Codenya, Maka untuk membuka Notebook harus di download dulu.
       Selanjutnya di running di Local Computer Atau Colabs. Remember: sudah Terlihat Running Programnya. (Tidak Perlu Lagi dataset Kalau runningya di Local / Colabs)
