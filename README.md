@@ -13,3 +13,12 @@ This is a machin learning course assignment from the first week to the seventh w
 | Mencopy source code di kaggle ke colab                    | Sumber tidak Hnaya dari kaggle, Tapi dari dicoding, Yt, dll.    |
 | Memahami source dari kaggle dengan menulis ulang          | Latihan dari Source Lain untuk mempelajari lebih dalam          |
 | Menambahkan Beberapa Kodingan sedikit dari Source kaggle  | Mencoba-coba / Merubah dari Sumber Lain tidak hanya dari Kaggle |
+
+## Pembahasan Tugas 🚀 
+
+- [x] WEEK 1 => Random Forest dan Decision Tree
+- [x] WEEK 2 => Regularization Lasso Regression, Etc.
+- [x] WEEK 3 => K-Nearest Neighboord (KNN)
+- [x] WEEK 4 => Data Vizualization
+- [x] WEEK 5 => Exploratory Data Analysis | PCA | LDA | T-SNE
+- [x] WEEK 6 => Clustering K-Means
