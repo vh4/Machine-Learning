@@ -2,13 +2,13 @@
 
 This is a machin learning course assignment from the first week - 7th week for UTS.
 
-## 1. IMPORTANT FOR READ⚠️
+### 1. IMPORTANT FOR READ⚠️
 
       1. Sudah di running dari Colabs. tidak perlu dataset lagi, sudah kelihatan running nya dan kesalahanya dimana 
       2. Jika Data Jupyter Notebook Tidak Bisa dibuka di Github, itu karena Lebih dari 1 atau 2 Mb Source Codenya, Maka untuk membuka Notebook harus di download dulu.
       Selanjutnya di running di Local Computer Atau Colabs. Remember: sudah Terlihat Running Programnya. (Tidak Perlu Lagi dataset Kalau runningya di Local / Colabs)
 
-## 2. PEMBAHASAN TUGAS 📓 
+### 2. PEMBAHASAN TUGAS 📓 
 
 - [x] WEEK 1 : Random Forest dan Decision Tree
 - [x] WEEK 2 : Regularization Lasso Regression, Etc.
@@ -17,7 +17,7 @@ This is a machin learning course assignment from the first week - 7th week for U
 - [x] WEEK 5 : Exploratory Data Analysis | PCA | LDA | T-SNE
 - [x] WEEK 6 : Clustering K-Means
 
-## 3. COMPARING SOURCE CODE📓 
+### 3. COMPARING SOURCE CODE📓 
 
 | SOURCE CODE FROM KAGGLE                                   | SOURCE CODE LATIHAN                                             |
 | --------------------------------------------------------- | --------------------------------------------------------------- |
