@@ -17,7 +17,7 @@ This is a machin learning course assignment from the first week - 7th week for U
 - [x] WEEK 5 : Exploratory Data Analysis | PCA | LDA | T-SNE
 - [x] WEEK 6 : Clustering K-Means
 
-## 2. COMPARING SOURCE CODE📓 
+## 3. COMPARING SOURCE CODE📓 
 
 | SOURCE CODE FROM KAGGLE                                   | SOURCE CODE LATIHAN                                             |
 | --------------------------------------------------------- | --------------------------------------------------------------- |
