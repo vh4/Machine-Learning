@@ -1,6 +1,6 @@
 # Machine Learning Tasks 🚀
 
-This is a machin learning course assignment from the first week to the seventh week for UTS.
+This is a machin learning course assignment from the first week - 7th week for UTS.
 
 ## IMPORTANT ⚠️
 
