@@ -9,7 +9,7 @@ This is a machin learning course assignment from the first week - 7th week for U
       Selanjutnya di running di Local Computer Atau Colabs. Remember: sudah Terlihat Running Programnya. (Tidak Perlu Lagi dataset Kalau runningya di Local / Colabs)
 
 
-## Pembahasan Tugas 🚀 
+## Pembahasan Tugas 📓 
 
 - [x] WEEK 1 : Random Forest dan Decision Tree
 - [x] WEEK 2 : Regularization Lasso Regression, Etc.
