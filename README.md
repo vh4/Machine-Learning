@@ -2,7 +2,7 @@
 
 This is a machin learning course assignment from the first week - 7th week for UTS.
 
-### 1. IMPORTANT FOR READ⚠️
+### 1. IMPORTANT ASKING⚠️
 
       1. Sudah di running dari Colabs. tidak perlu dataset lagi, sudah kelihatan running nya dan kesalahanya dimana 
       2. Jika Data Jupyter Notebook Tidak Bisa dibuka di Github, itu karena Lebih dari 1 atau 2 Mb Source Codenya, Maka untuk membuka Notebook harus di download dulu.
