@@ -1,6 +1,6 @@
 # Machine Learning Tasks 🚀
 
-This is a machin learning course assignment from the first week - 7th week for UTS.
+This is a machin learning course assignment from 1th week - 7th week for UTS.
 
 ### 1. IMPORTANT ASKING⚠️
 
@@ -15,7 +15,9 @@ This is a machin learning course assignment from the first week - 7th week for U
 - [x] WEEK 3 : K-Nearest Neighboord (KNN)
 - [x] WEEK 4 : Data Vizualization
 - [x] WEEK 5 : Exploratory Data Analysis | PCA | LDA | T-SNE | SVD
-- [x] WEEK 6 : Clustering K-Means
+- [x] WEEK 6 : Clustering Unsupervised
+- [x] WEEK 7 : Xgboost 
+- [x] WEEK 8 : Support Vector Machine (SVM) 
 
 ### 3. COMPARING SOURCE CODE📓 
 
