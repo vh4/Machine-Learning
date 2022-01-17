@@ -10,4 +10,4 @@ This is a machin learning course assignment from 1th week - 7th week for UAS.
 
 ##
 
-![alt text](https://github.com/vh4/Machine-Learning/blob/master/WEEK%2010/image/train_batch1.jpgg)
+![alt text](https://github.com/vh4/Machine-Learning/blob/master/WEEK%2010/image/train_batch1.jpg)
