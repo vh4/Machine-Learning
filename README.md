@@ -1,3 +1,5 @@
+![alt text](https://media-exp1.licdn.com/dms/image/C4D22AQGTxphOAH2d8Q/feedshare-shrink_800/0/1632407488131?e=1645056000&v=beta&t=g3u98j-6SMPoZuwCqbSEXO4t0TinbCogF3CwmP9m7CI)
+
 # Machine Learning Tasks 🚀
 
 This is a machin learning course assignment from 1th week - 7th week for UTS.
