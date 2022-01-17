@@ -1,7 +1,7 @@
 
 # Machine Learning Tasks 🚀
 
-This is a machin learning course assignment from 1th week - 7th week for UTS.
+This is a machin learning course assignment from 1th week - 7th week for UTS and UAS.
 
 ### 1. IMPORTANT ASKING⚠️
 
@@ -19,6 +19,10 @@ This is a machin learning course assignment from 1th week - 7th week for UTS.
 - [x] WEEK 6 : Clustering Unsupervised
 - [x] WEEK 7 : Xgboost 
 - [x] WEEK 8 : Support Vector Machine (SVM) 
+- [x] WEEK 9 : Deep Learning
+- [x] WEEK 10 : Try Using Tensorboard and Pytorch
+- [x] WEEK 11 : CNN
+- [x] WEEK 12 : Architecture CNN
 
 ### 3. COMPARING SOURCE CODE📓 
 
