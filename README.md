@@ -23,6 +23,7 @@ This is a machin learning course assignment from 1th week - 7th week for UTS and
 - [x] WEEK 10 : Try Using Tensorboard and Pytorch
 - [x] WEEK 11 : CNN
 - [x] WEEK 12 : Architecture CNN Best Competition CUDA 
+- [x] WEEK 13 : GRU and LSTM Architecture of RNN
 
 ### 3. COMPARING SOURCE CODE📓 
 
