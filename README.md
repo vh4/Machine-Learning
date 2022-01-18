@@ -1,7 +1,7 @@
 
 # Machine Learning Tasks 🚀
 
-This is a machin learning course assignment from 1th week - 7th week for UTS and UAS.
+This is a machin learning course assignment from 1 week - 14 week for UTS and UAS.
 
 ### 1. IMPORTANT ASKING⚠️
 
