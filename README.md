@@ -24,6 +24,7 @@ This is a machin learning course assignment from 1 week - 14 week for UTS and UA
 - [x] WEEK 11 : CNN
 - [x] WEEK 12 : Architecture CNN Best Competition CUDA 
 - [x] WEEK 13 : GRU and LSTM Architecture of RNN
+- [x] FINAL EXAM : PAPER CODE RUNNING TO GETTING OUTPUT.
 
 ### 3. COMPARING SOURCE CODE📓 
 
