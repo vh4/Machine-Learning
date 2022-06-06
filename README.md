@@ -1,5 +1,5 @@
 
-# Machine Learning Tasks 🚀
+# Machine Learning 🚀
 
 This is a machin learning course assignment from 1 week - 14 week for UTS and UAS.
 
